@@ -1,5 +1,5 @@
 **Portfolio**
-**---**
+---
 
 **Description**
 >This project is a portfolio for displaying my latest web development work. Here you'll find recent examples of my work, information about me, and ways to contact me about working on future projects. 
@@ -11,7 +11,7 @@
 >[Contribution Guidelines](#Contribution)
 >[Tests](#Tests)
 >[Questions](#Questions)
-**---**
+---
 **Installation Instructions** <a name="Installation"></a>
 > run npm i && npm start to start on localhost:3000
 
