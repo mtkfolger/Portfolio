@@ -4,16 +4,21 @@
 **Description**
 >This project is a portfolio for displaying my latest web development work. Here you'll find recent examples of my work, information about me, and ways to contact me about working on future projects. 
 
-**Table of Contents **
+**Table of Contents**
 >[Installation](#Installation)
+>
 >[Usage](#Usage)
+>
 >[License](#License)
+>
 >[Contribution Guidelines](#Contribution)
+>
 >[Tests](#Tests)
+>
 >[Questions](#Questions)
 ---
 **Installation Instructions** <a name="Installation"></a>
-> run npm i && npm start to start on localhost:3000
+> Run npm i && npm start to start on localhost:3000
 
 **Usage** <a name="Usage"></a>
 >This application will be used as a portfolio to display web development work
