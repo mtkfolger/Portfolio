@@ -4,6 +4,11 @@
 **Description**
 >This project is a portfolio for displaying my latest web development work. Here you'll find recent examples of my work, information about me, and ways to contact me about working on future projects. 
 
+**Link to Deployed Application**
+>To view the deployed application, <a href="www.google.com"> click here </a>!
+
+**Image of Depoloyed Application**
+
 **Table of Contents**
 >[Installation](#Installation)
 >
@@ -40,7 +45,7 @@
 >
 >or by contacting me via e-mail, at:
 >
->mtkfolger@gmail.com <a mailto: "mtkfolger@gmail.com"><a/>
+>mtkfolger@gmail.com
 
 ---
 *This readme template is © Michael Folger - 2021*
