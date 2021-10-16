@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
-import PortfolioAbout from './PortfolioAbout';
 
-function PortfolioHome(props) {
-
+function PortfolioAbout () {
     return (
         <div>
             <header className="App-header">
@@ -14,7 +12,7 @@ function PortfolioHome(props) {
                             <a className="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="./PortfolioAbout.js">About</a>
+                            <a className="nav-link" href="#">About</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#">Contact</a>
@@ -23,7 +21,7 @@ function PortfolioHome(props) {
                 </nav>
             <body className="App-Body">
 
-                    <h1 className="h2">Welcome to my web development portfolio! Take a look at some examples of my work in Web Development.</h1>
+                    <h1 className="h2">Welcome to my web development portfolio! Let me tell you a bit about myself.</h1>
                     
             
                 <div>
@@ -39,4 +37,4 @@ function PortfolioHome(props) {
     );
 }
 
-export default PortfolioHome;
+export default PortfolioAbout;
