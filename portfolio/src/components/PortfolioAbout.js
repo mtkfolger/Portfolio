@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import PortfolioHome from './PortfolioHome';
 
 function PortfolioAbout () {
     return (
@@ -9,7 +10,7 @@ function PortfolioAbout () {
                 <nav>
                     <ul className="nav nav-tabs">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#">Home</a>
+                            <a className="nav-link active" aria-current="page" href="./PortfolioHome">Home</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#">About</a>
@@ -21,7 +22,7 @@ function PortfolioAbout () {
                 </nav>
             <body className="App-Body">
 
-                    <h1 className="h2">Welcome to my web development portfolio! Let me tell you a bit about myself.</h1>
+                    <h1 className="h2">TEST</h1>
                     
             
                 <div>
