@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import PortfolioHome from './PortfolioHome';
 
-function PortfolioAbout () {
+function PortfolioContact () {
     return (
         <div>
             <header className="App-header">
@@ -38,4 +38,4 @@ function PortfolioAbout () {
     );
 }
 
-export default PortfolioContact;
+//export default PortfolioContact;

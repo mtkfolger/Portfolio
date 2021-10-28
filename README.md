@@ -1,13 +1,13 @@
-**Portfolio**
----
+# Portfolio
 
 **Description**
 >This project is a portfolio for displaying my latest web development work. Here you'll find recent examples of my work, information about me, and ways to contact me about working on future projects. 
 
+**Image of Depoloyed Application**
+>
+
 **Link to Deployed Application**
 >To view the deployed application, <a href="www.google.com"> click here </a>!
-
-**Image of Depoloyed Application**
 
 **Table of Contents**
 >[Installation](#Installation)

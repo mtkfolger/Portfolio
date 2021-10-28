@@ -80,3 +80,17 @@
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: lighter;
 }
+
+.grid{
+  display: column;
+  grid-auto-flow: column;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: max-content;
+  flex-direction: column;
+  background-color: rgb(224, 224, 224);
+  margin: 5em auto;
+  align-content: center;
+  justify-content: start;
+  width: min(35%, 75rem);
+
+}

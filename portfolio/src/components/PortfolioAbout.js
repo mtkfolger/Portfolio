@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import PortfolioHome from './PortfolioHome';
+import { useState } from 'react';
 
 function PortfolioAbout () {
     return (
@@ -38,4 +37,4 @@ function PortfolioAbout () {
     );
 }
 
-export default PortfolioAbout;
+//export default PortfolioAbout;
